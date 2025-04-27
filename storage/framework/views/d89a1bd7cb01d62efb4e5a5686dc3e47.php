@@ -164,16 +164,10 @@
                 Tours And Travel
             </div>
 
-            {{-- 
-            <div class="navbar-links">
-                <a href="{{ route('popular') }}">Popular Places</a>
-                <a href="{{ route('gallery') }}">Gallery</a>
-                <a href="{{ route('login') }}">Sign up / Login</a>
-                <a href="{{ route('contact') }}">Contact</a>
-            </div>
-            --}}
+            
         </div>
     </nav>
 
 </body>
 </html>
+<?php /**PATH C:\Users\aryan\Git-Projects\tours-and-travels\resources\views/components/navbar.blade.php ENDPATH**/ ?>
